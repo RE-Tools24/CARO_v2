@@ -1,11 +1,11 @@
-Steps to reproduce Risk assessment result-
+**Steps to reproduce Risk assessment result-**
 
-Download the CARO_tool in any preferable location.
+1. Download the CARO_tool in any preferable location.
 
-Download data set. zip file. Extract them. 
+2. Download data set. zip file. Extract them. 
 
-Copy files from any one of the project in the same location as tool.
+3. Copy files from any one of the project in the same location as tool.
 
-Run the tool.
+4. Run the tool.
 
-Click on different buttons in the left panel (Risk exposure, Risk Measurement, Risk Mitigation) to observe the results.
+5. Click on different buttons in the left panel (Risk exposure, Risk Measurement, Risk Mitigation) to observe the results.
