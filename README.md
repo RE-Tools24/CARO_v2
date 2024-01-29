@@ -1,3 +1,5 @@
+**Pre-requisites**: JDK version 17.0.0 or higher.
+
 **Steps to reproduce Risk assessment result-**
 
 1. Download the CARO_tool in any preferable location.
